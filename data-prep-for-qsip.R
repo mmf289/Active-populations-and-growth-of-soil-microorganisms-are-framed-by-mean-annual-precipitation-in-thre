@@ -2,7 +2,6 @@
 
 
 #Set working directory and load libraries & scripts:
-setwd("/Users/meganfoley/Documents/winterSIP/manuscript/ember.correction")
 
 library(reshape2)
 library(VennDiagram)
